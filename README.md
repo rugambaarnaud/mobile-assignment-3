@@ -1,6 +1,5 @@
-Name:Niyonkuru Valens _
-ID:25097 _
-group:E1(Tuesday)_
+Name:ntare rugamba arnaud
+ID 24750
 Description of project: Develope UI of SignIn_page,SignUp_page and complete working Calculater   by using flutter
 ---------------------------------------------------------------------------------------------------------------------
 menu
